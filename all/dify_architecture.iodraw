@@ -37,11 +37,6 @@
         <mxCell id="No-B2mmDzspNvrUzJJ7X-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-4" target="Q7n98_aU25eegDvMRL0n-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="No-B2mmDzspNvrUzJJ7X-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="No-B2mmDzspNvrUzJJ7X-28">
-          <mxGeometry x="-0.8667" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q7n98_aU25eegDvMRL0n-4" value="Dify 编排工作室" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="270" width="120" height="150" as="geometry" />
         </mxCell>
@@ -76,6 +71,9 @@
           <mxGeometry x="390" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="No-B2mmDzspNvrUzJJ7X-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-11" target="Q7n98_aU25eegDvMRL0n-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No-B2mmDzspNvrUzJJ7X-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-11" target="Q7n98_aU25eegDvMRL0n-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7n98_aU25eegDvMRL0n-11" value="Dify BaaS Platform" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
