@@ -37,13 +37,13 @@
         <mxCell id="No-B2mmDzspNvrUzJJ7X-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-4" target="Q7n98_aU25eegDvMRL0n-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q7n98_aU25eegDvMRL0n-4" value="Dify 编排工作室" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q7n98_aU25eegDvMRL0n-4" value="Dify 编排工作室" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="390" y="270" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Q7n98_aU25eegDvMRL0n-5" value="Dify Prompts IDE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q7n98_aU25eegDvMRL0n-5" value="Dify Prompts IDE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7n98_aU25eegDvMRL0n-6" value="Dify Agent DSL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q7n98_aU25eegDvMRL0n-6" value="Dify Agent DSL" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="No-B2mmDzspNvrUzJJ7X-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-7" target="Q7n98_aU25eegDvMRL0n-12">
@@ -100,7 +100,7 @@
         <mxCell id="No-B2mmDzspNvrUzJJ7X-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-15" target="Q7n98_aU25eegDvMRL0n-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q7n98_aU25eegDvMRL0n-15" value="Prompts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Q7n98_aU25eegDvMRL0n-15" value="Prompts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7n98_aU25eegDvMRL0n-16" value="查询请求" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
