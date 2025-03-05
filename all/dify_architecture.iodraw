@@ -82,9 +82,6 @@
         <mxCell id="Q7n98_aU25eegDvMRL0n-15" value="Prompts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="No-B2mmDzspNvrUzJJ7X-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-16" target="Q7n98_aU25eegDvMRL0n-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Q7n98_aU25eegDvMRL0n-16" value="Queries&lt;div&gt;Requests&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="485" width="60" height="30" as="geometry" />
         </mxCell>
