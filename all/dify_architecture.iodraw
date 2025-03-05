@@ -43,6 +43,9 @@
         <mxCell id="Q7n98_aU25eegDvMRL0n-6" value="Dify Agent DSL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="No-B2mmDzspNvrUzJJ7X-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-7" target="Q7n98_aU25eegDvMRL0n-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q7n98_aU25eegDvMRL0n-7" value="Dify LLMOps" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -113,6 +116,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="No-B2mmDzspNvrUzJJ7X-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-16" target="Q7n98_aU25eegDvMRL0n-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No-B2mmDzspNvrUzJJ7X-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.017;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-4" target="Q7n98_aU25eegDvMRL0n-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
