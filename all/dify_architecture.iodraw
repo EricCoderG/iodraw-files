@@ -34,7 +34,7 @@
         <mxCell id="Q7n98_aU25eegDvMRL0n-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=open;endFill=0;" parent="1" source="Q7n98_aU25eegDvMRL0n-4" target="Q7n98_aU25eegDvMRL0n-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="No-B2mmDzspNvrUzJJ7X-28" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-4" target="Q7n98_aU25eegDvMRL0n-11">
+        <mxCell id="No-B2mmDzspNvrUzJJ7X-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-4" target="Q7n98_aU25eegDvMRL0n-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7n98_aU25eegDvMRL0n-4" value="Dify 编排工作室" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -137,6 +137,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="No-B2mmDzspNvrUzJJ7X-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.017;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-6" target="Q7n98_aU25eegDvMRL0n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No-B2mmDzspNvrUzJJ7X-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.35;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="Q7n98_aU25eegDvMRL0n-11" target="Q7n98_aU25eegDvMRL0n-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
